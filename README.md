@@ -2,7 +2,7 @@
 
 **🛠️ Monitoring System Deployment Report**  
 📅 **Date**: July 7, 2025  
-👨‍💻 **Admin**: [Your Name]  
+👨‍💻 **Admin**: Sasha Zimin 
 🧩 **Zabbix Version**: 6.4 LTS  
 
 ---
