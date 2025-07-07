@@ -1,8 +1,11 @@
 # 🚀 **Zabbix 6.4 LTS Deployment on Windows 11 Pro via WSL2 (Ubuntu)**
 
-**🛠️ Monitoring System Deployment Report**  
-📅 **Date**: July 7, 2025  
+**🛠️ Monitoring System Deployment Report**
+
+📅 **Date**: July 7, 2025
+
 👨‍💻 **Admin**: Sasha Zimin 
+
 🧩 **Zabbix Version**: 6.4 LTS  
 
 ---
